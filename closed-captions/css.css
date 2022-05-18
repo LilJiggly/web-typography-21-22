@@ -202,7 +202,7 @@ You probably want to change the styling.
 .p6.on {
 	position: absolute;
 	color:red;
-	background-image: url(/images/finger.jpg);
+	background-image: url(./images/finger.jpg);
 	background-color: white;
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
